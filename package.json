@@ -1,0 +1,19 @@
+{
+  "name": "stone-css-cli",
+  "version": "1.0.0",
+  "description": "CLI For Stone CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devarshishimpi/Stone-CSS-CLI.git"
+  },
+  "author": "DVS Tech Labs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/devarshishimpi/Stone-CSS-CLI/issues"
+  },
+  "homepage": "https://github.com/devarshishimpi/Stone-CSS-CLI#readme"
+}
